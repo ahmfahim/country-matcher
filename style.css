@@ -40,11 +40,10 @@
     height:120px;
 }
 .DetailsShow{
-    height: 300px;
+    height: 215px;
     width: 100%;
     background-color:white;
     box-shadow:1px 1px 10px rgb(209, 209, 209);
-
 }
 .allCountries{
     padding-top: 300px;
